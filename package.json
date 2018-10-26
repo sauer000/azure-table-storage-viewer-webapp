@@ -11,6 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/sauer000/azure-table-storage-viewer-webapp.git"
   },
+  "repository": {
+  "type" : "git",
+  "url" : "https://github.com/npm/cli.git"
+  },
+  
   "keywords": [
     "Azure",
     "Table",
